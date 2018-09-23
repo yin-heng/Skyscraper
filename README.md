@@ -12,6 +12,8 @@ You have four different tasks:
 
 
 Input/Output Requirements
+
+
 You may implement this assignment in Java or C++. Your program must be compilable and runable on the Thunder CISE server using gcc/g++ or standard JDK. You may access the server using Telnet or SSH client on thunder.cise.ufl.edu.
 You must write a makefile document which creates an executable. The name of your executable must be Skyscraper.
 COT 5405 – Programming Project Page 1 / 2
